@@ -1,2 +1,2 @@
 # 1-bit-monochrome.github.io
-Ad-Support-Text
+Empty, for now.
