@@ -1,2 +1,2 @@
-# 1-bit-monochrome.github.io
+# 1-bit-monochrome - Another website.
 Empty, for now.
